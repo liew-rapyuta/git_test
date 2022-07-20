@@ -8,5 +8,7 @@ int main(void){
     int a =1;
 
     int p =2;
+
+    cout<<"muy bueno";
     return 0;
 }
