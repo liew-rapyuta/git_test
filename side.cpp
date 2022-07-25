@@ -1,4 +1,5 @@
-#include <printf>
+#include <math>
+#include <vector>
 #include <iostream>
 
 using namespace std;
